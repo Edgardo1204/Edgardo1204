@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jesus edgardo lopez ramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus edgardo lopez ramirez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Jesus Edgardo Lopez Ramírez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus edgardo lopez ramirez" height="30" width="40" /></a>
 <a href="https://instagram.com/edgardo_lrmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edgardo.lrmz" height="30" width="40" /></a>
 </p>
 
